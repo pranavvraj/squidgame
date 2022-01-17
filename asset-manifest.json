@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/squidgame/static/css/main.90b9f560.css",
+    "main.js": "/squidgame/static/js/main.9a214ecb.js",
+    "static/media/o2n.png": "/squidgame/static/media/o2n.a8287d32930027d52af8.png",
+    "static/media/jy.png": "/squidgame/static/media/jy.eb9f3c3085f2081b1e56.png",
+    "static/media/aa.png": "/squidgame/static/media/aa.0f6a867b326e3b7918ab.png",
+    "static/media/jds.png": "/squidgame/static/media/jds.2ce51366c82262c27ff4.png",
+    "static/media/ksb.png": "/squidgame/static/media/ksb.d4a5b6c3e4eda580224d.png",
+    "static/media/sgh.png": "/squidgame/static/media/sgh.f8f6795c1bf9ccf46c9c.png",
+    "static/media/csw.png": "/squidgame/static/media/csw.65d60883f5fe6b8fc0f7.png",
+    "static/media/hjh.png": "/squidgame/static/media/hjh.f52dc8213136fb39c1ee.png",
+    "static/media/sg logo.png": "/squidgame/static/media/sg logo.6302ffdda42f3e12a32f.png",
+    "index.html": "/squidgame/index.html",
+    "main.90b9f560.css.map": "/squidgame/static/css/main.90b9f560.css.map",
+    "main.9a214ecb.js.map": "/squidgame/static/js/main.9a214ecb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90b9f560.css",
+    "static/js/main.9a214ecb.js"
+  ]
+}
